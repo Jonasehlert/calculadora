@@ -1,3 +1,7 @@
+//Calculadora com React - Utilizado Visual Studio Code
+//Desenvolvedor - Jonas Dall Agnol Ehlert
+//Data de Modificação: 31/05/2022
+
 import React,{useState} from 'react'
 
 export default function App() {
